@@ -1,9 +1,9 @@
 # Pair-trading
-This a investments  strategyment about pair trading: we want to find two stocks (one pair) such that their price movement should be similar:  
+This a investments  strategy about pair trading: we want to find two stocks (one pair) such that their price movement should be similar:  
 - For exmaple, if we think the stock prices of Facebook and Google are one pair, that is to said, if the price of Facebook goes up, then Google will also goes up
 - Which is to say, the price difference of one pair should usually around 0, or technically, normalized with mean zero and a fixed standard deviation
 
-The traditional method for defining one pair is to compute the standard deviation of their price difference. In this notebook, beside the traditional method, we will also try one more novel method
+In this project, beside the traditional method, we will also try one more novel method
 
 ## traditional method
 If two stocks Y and X price satisify the OLS model (we will conduct a co-integration test to ensure the relationship is stable)

@@ -17,7 +17,7 @@ The best pair is when the standatd deviation of their price difference is very s
 
 Thus we can believe that when their price differen become large, it will converge eventually
 
-## Novel method to construct pairs
+## An advanced method to construct pairs
 - The problem of the traditional method: the two stocks move so close that they would barely diverge and we would have very few investment oppotunities 
 
 #### Novel idea: 
